@@ -10,9 +10,9 @@ git clone https://github.com/gogleproject/crazyvideomaker-1.6.20.0-reupload.git
 ```
 &bull; Install 3 packages by running those **PowerShell** commands:
 ```
-Add-AppxPackage -Path C:\cvm1\Microsoft.NET.Native.Framework.1.3_1.3.24211.0_x64__8wekyb3d8bbwe.Appx
-Add-AppxPackage -Path C:\cvm1\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe.Appx
-Add-AppxPackage -Path C:\cvm1\MultimediaCafe.crazyvideomaker_1.6.20.0_neutral_~_sdscs59zfqtf6.AppxBundle
+Add-AppxPackage -Path C:\cvm1\crazyvideomaker-1.6.20.0-reupload\Microsoft.NET.Native.Framework.1.3_1.3.24211.0_x64__8wekyb3d8bbwe.Appx
+Add-AppxPackage -Path C:\cvm1\crazyvideomaker-1.6.20.0-reupload\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe.Appx
+Add-AppxPackage -Path C:\cvm1\crazyvideomaker-1.6.20.0-reupload\MultimediaCafe.crazyvideomaker_1.6.20.0_neutral_~_sdscs59zfqtf6.AppxBundle
 ```
 *If you encounter an error, enable developer mode and try again. If it still continues to fail, please open an issue on this <a href="https://github.com/gogleproject/crazyvideomaker-1.6.20.0-reupload/issues">link</a>.* <br/>
 
