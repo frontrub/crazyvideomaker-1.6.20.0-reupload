@@ -1,2 +1,2 @@
 # crazyvideomaker-1.6.20.0-reupload
-Description is in the readme, because it is too long
+crazy video maker unleashes the power of imagination on the unsuspecting audience by sharing your craziest interpretations on video and photo collections. Mount movies and embed: drawings, pictures, movies and wide range of creative text bubbles to your video, easily and quickly, with precision onto the screen and video time line. Edit the videos with precision with intuitive and easy to use interface. Add new soundtrack and mix it with the original one in any proportion. Complete your creation with a mix of crazy effects and share on Facebook and YouTube directly from the program.
