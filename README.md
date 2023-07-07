@@ -7,7 +7,7 @@ crazy video maker unleashes the power of imagination on the unsuspecting audienc
 &bull; Go to the directory you created. <br/>
 &bull; Run the following command:
 ```
-git clone https://github.com/gogleproject/crazyvideomaker-1.6.20.0-reupload.git
+"C:\Program Files\Git\cmd\git.exe" clone https://github.com/gogleproject/crazyvideomaker-1.6.20.0-reupload.git
 ```
 &bull; Install 3 packages by running those **PowerShell** commands:
 ```
